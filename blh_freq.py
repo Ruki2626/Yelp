@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  3 18:01:39 2017
 
-@author: ranji
-"""
 import nltk
 from nltk.util import ngrams 
 import re
