@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 27 17:18:57 2017
-
-@author: ranji
-"""
-
 """
 
 The script includes the following pre-processing steps for text:
