@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 11:15:58 2017
 
-@author: ranji
-"""
 
 import os
 import time
