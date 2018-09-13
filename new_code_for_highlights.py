@@ -1,9 +1,3 @@
-# -- coding: utf-8 --
-"""
-Created on Sun Nov 19 17:26:54 2017
-
-@author: ranji
-"""
 
 import unicodedata
 from lxml import etree
