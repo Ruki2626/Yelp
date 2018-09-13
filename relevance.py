@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 11:53:19 2017
 
-@author: ranji
-"""
 
 from gensim.models import Word2Vec
 from gensim.models.word2vec import LineSentence
