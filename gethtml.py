@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 10:50:40 2017
-
-@author: ranji
-"""
 
 from bs4 import BeautifulSoup
 import time
